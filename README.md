@@ -8,3 +8,5 @@ https://paperswithcode.com/
 http://cs224d.stanford.edu/syllabus.html
 
 https://ai.google/research
+
+http://r4ds.had.co.nz/index.html
