@@ -12,3 +12,11 @@ https://ai.google/research
 http://r4ds.had.co.nz/index.html
 
 https://github.com/sajal2692/data-science-portfolio
+
+https://github.com/alexattia/Data-Science-Projects (data science projects)
+
+https://github.com/Northbreeze/data-science(good courses)
+
+https://ai.google/education/ (google education)
+
+
