@@ -19,4 +19,12 @@ https://github.com/Northbreeze/data-science(good courses)
 
 https://ai.google/education/ (google education)
 
+https://github.com/Northbreeze/List-of-AI-and-Machine-Learning-Resources/edit/master/README.md (spark - big data)
+
+http://cs109.github.io/2015/pages/videos.html (harvard)
+
+https://work.caltech.edu/telecourse.html(caltech)
+
+https://www.coursera.org/learn/neural-networks (neural network - coursera)
+
 
