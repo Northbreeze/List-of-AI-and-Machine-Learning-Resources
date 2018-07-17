@@ -32,10 +32,16 @@ http://www.bbc.com/future/story/20150713-how-worried-should-you-be-about-artific
 
 
 Enron email archive (500,000 emails made public due to the scandal).
+
 U.S. National Institute of Standards and Technology is 70,000-ish handwritten digits.
+
 U.S. Fundamentals Archive is a database of five years of financial data on over 5,000 U.S. companies.
+
 Sports Statistics Database is historical data on lots of USA professional and college sport.
+
 UCI Machine Learning Repository is the go-to place for data sets spanning over 350 subjects.
+
 Kaggle Datasets has over 100 topics covering more random things like PokemonGo spawn locations.
+
 data.gov is a public dataset focussing on social sciences.
  
