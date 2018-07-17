@@ -27,4 +27,5 @@ https://work.caltech.edu/telecourse.html(caltech)
 
 https://www.coursera.org/learn/neural-networks (neural network - coursera)
 
+http://www.bbc.com/future/story/20150713-how-worried-should-you-be-about-artificial-intelligence
 
