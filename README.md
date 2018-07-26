@@ -44,4 +44,48 @@ UCI Machine Learning Repository is the go-to place for data sets spanning over 3
 Kaggle Datasets has over 100 topics covering more random things like PokemonGo spawn locations.
 
 data.gov is a public dataset focussing on social sciences.
+
+
+
+NLP:
+
+https://github.com/alexattia/Data-Science-Projects
+
+https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
+
+https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Bayes%20and%20Polls.ipynb
+
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
+https://github.com/ShuaiW/kaggle-classification
+
+https://towardsdatascience.com/nlp-for-topic-modeling-summarization-of-legal-documents-8c89393b1534
+
+https://nlpforhackers.io/topic-modeling/
+
+https://rare-technologies.com/text-summarization-in-python-extractive-vs-abstractive-techniques-revisited/
+
+http://ai.intelligentonlinetools.com/ml/text-summarization/
+
+https://medium.freecodecamp.org/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164
+
+https://towardsdatascience.com/nlp-for-topic-modeling-summarization-of-legal-documents-8c89393b1534 (legal)
+
+http://ai.intelligentonlinetools.com/ml/text-summarization/ (Text Analytics Techniques)
+
+https://nlpforhackers.io/topic-modeling/ (complete guide to topic modeling)
+
+https://rare-technologies.com/text-summarization-in-python-extractive-vs-abstractive-techniques-revisited/ (text summarization in python)
+
+C:\Users\NASTABA\AppData\Local\Programs\Python\Python37\Scripts
+
+https://www.howtogeek.com/197947/how-to-install-python-on-windows/ (installing python)
+
+http://jmlr.org/papers/volume3/blei03a/blei03a.pdf (paper for LDA and SVM)
+
+https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html
+
+https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+
+http://www.labri.fr/perso/nrougier/from-python-to-numpy/
  
