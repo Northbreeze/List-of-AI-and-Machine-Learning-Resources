@@ -89,3 +89,4 @@ https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in
 
 http://www.labri.fr/perso/nrougier/from-python-to-numpy/
  
+ https://datascience.blog.wzb.eu/2017/11/09/topic-modeling-evaluation-in-python-with-tmtoolkit/ (Evaluate LDA)
