@@ -98,3 +98,5 @@ http://www.labri.fr/perso/nrougier/from-python-to-numpy/
  https://cfss.uchicago.edu/fall2016/text02.html (topic modeling using R)
  
  https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/ (end to end topic modeling)
+ 
+ https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html
