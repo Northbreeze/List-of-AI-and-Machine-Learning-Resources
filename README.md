@@ -94,3 +94,5 @@ http://www.labri.fr/perso/nrougier/from-python-to-numpy/
  https://www.quora.com/What-are-the-best-papers-on-Topic-Modeling (papers of topic modeling)
  
  https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/ (Evlauation of topic modeling) 
+ 
+ https://cfss.uchicago.edu/fall2016/text02.html (topic modeling using R)
