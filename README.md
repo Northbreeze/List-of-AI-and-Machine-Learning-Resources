@@ -92,3 +92,5 @@ http://www.labri.fr/perso/nrougier/from-python-to-numpy/
  https://datascience.blog.wzb.eu/2017/11/09/topic-modeling-evaluation-in-python-with-tmtoolkit/ (Evaluate LDA)
  
  https://www.quora.com/What-are-the-best-papers-on-Topic-Modeling (papers of topic modeling)
+ 
+ https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/ (Evlauation of topic modeling) 
