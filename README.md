@@ -96,3 +96,5 @@ http://www.labri.fr/perso/nrougier/from-python-to-numpy/
  https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/ (Evlauation of topic modeling) 
  
  https://cfss.uchicago.edu/fall2016/text02.html (topic modeling using R)
+ 
+ https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/ (end to end topic modeling)
