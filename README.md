@@ -100,3 +100,8 @@ http://www.labri.fr/perso/nrougier/from-python-to-numpy/
  https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/ (end to end topic modeling)
  
  https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html
+
+
+NLP Deep learning sources:
+
+http://deeplearning.lipingyang.org/tensorflow-examples-text/
