@@ -105,3 +105,8 @@ http://www.labri.fr/perso/nrougier/from-python-to-numpy/
 NLP Deep learning sources:
 
 http://deeplearning.lipingyang.org/tensorflow-examples-text/
+
+
+A Good Pandas Tutorial:
+
+https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
