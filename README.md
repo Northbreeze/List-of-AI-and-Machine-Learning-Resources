@@ -110,3 +110,8 @@ http://deeplearning.lipingyang.org/tensorflow-examples-text/
 A Good Pandas Tutorial:
 
 https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
+
+
+Google Rstudio Guide
+
+https://google.github.io/styleguide/Rguide.xml
